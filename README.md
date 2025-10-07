@@ -7,29 +7,34 @@ A simple and festive web application to send Happy New Year 2025 wishes using HT
 
 ## Table of Contents
 
-1.  [Features](#features)
-2.  [Tech Stack](#tech-stack)
-3.  [Installation](#installation)
-4.  [Usage](#usage)
-5.  [Project Structure](#project-structure)
-6.  [Contributing](#contributing)
-7.  [License](#license)
-8.  [Important Links](#important-links)
-9.  [Footer](#footer)
+1.  [Introduction](#introduction)
+2.  [Features](#features)
+3.  [Tech Stack](#tech-stack)
+4.  [Installation](#installation)
+5.  [Usage](#usage)
+6.  [Project Structure](#project-structure)
+7.  [Contributing](#contributing)
+8.  [License](#license)
+9.  [Important Links](#important-links)
+10. [Footer](#footer)
+
+## Introduction
+
+This project is designed to bring joy and celebration to the New Year 2025 with interactive and visually appealing elements. It provides a fun way to send New Year wishes.
 
 ## Features ✨
 
 *   **Animated New Year Greeting:** A vibrant and animated "Happy New Year 2025!" greeting using CSS animations.
 *   **Bouncing Emojis:** Grid of animated emojis that bounce to add a playful touch.
 *   **Interactive Surprise Message:** A button to reveal a hidden, encouraging message.
-*   **Fireworks Effect:** A dynamic fireworks animation on a canvas background.
+*   **Fireworks Effect:** A dynamic fireworks animation on a canvas background, triggered on page load and by button click.
 *   **Responsive Design:** Utilizes Bootstrap for responsive layout across different devices.
 
 ## Tech Stack 💻
 
 *   **HTML:** For structuring the web page.
-*   **CSS:** For styling and animations, including keyframes for bouncing text, floating images and spinning emojis.
-*   **JavaScript:** For interactive elements and the fireworks animation.
+*   **CSS:** For styling and animations, including keyframes for bouncing text and spinning emojis.
+*   **JavaScript:** For interactive elements, the fireworks animation, and emoji animations.
 *   **Bootstrap:** For responsive design and pre-built components.
 
 ## Installation ⚙️
@@ -53,7 +58,7 @@ A simple and festive web application to send Happy New Year 2025 wishes using HT
 1.  Open the `index.html` file in your web browser.
 2.  View the animated "Happy New Year 2025!" greeting.
 3.  Click the "Click for a Surprise 🎁" button to reveal a hidden message.
-4.  Click the "Generate Fireworks 🎆" button to trigger a firework display.
+4.  Click the "Generate Fireworks 🎆" button to trigger a firework display (or just wait, it starts automatically).
 5.  Enjoy the continuous fireworks animation on the background.
 
 ### Real World Use Case 🌍
@@ -64,6 +69,16 @@ This project can be used to:
 *   Add a festive touch to a website or landing page.
 *   Learn about HTML, CSS, JavaScript, and Bootstrap.
 *   Customize the greeting and message for different occasions.
+
+## How to Use 🧑‍💻
+
+To use this project:
+
+1.  Clone the repository to your local machine.
+2.  Open the `index.html` file in your preferred web browser.
+3.  Interact with the elements on the page, such as the surprise message button and the fireworks button.
+
+This project is a great starting point for learning web development, practicing front-end skills, and creating personalized greetings.
 
 ## Project Structure 📂
 
